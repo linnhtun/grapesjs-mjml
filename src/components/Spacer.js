@@ -15,7 +15,7 @@ export default (editor, { dc, coreMjmlModel, coreMjmlView }) => {
         droppable: false,
         'style-default': { height: '20px' },
         stylable: ['height', 'container-background-color'],
-        void: true,
+        void: false,
       },
     },
 
