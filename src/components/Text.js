@@ -30,7 +30,7 @@ export default (editor, { dc, coreMjmlModel, coreMjmlView }) => {
           'container-background-color'
         ],
         'style-default': {
-          'padding': '10px 25px 10px 25px',
+          'padding': '10px 10px 10px 10px',
           'font-size': '13px',
           'line-height': '22px',
           'align': 'left',

@@ -14,7 +14,7 @@ export default (editor, { dc, coreMjmlModel, coreMjmlView }) => {
         draggable: '[data-gjs-type=mj-body], [data-gjs-type=mj-wrapper]',
         droppable: '[data-gjs-type=mj-column]',
         'style-default': {
-          'padding': '10px 0 10px 0',
+          'padding': '0 0 0 0',
           'text-align': 'center',
         },
         stylable: [

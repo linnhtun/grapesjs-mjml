@@ -15,10 +15,10 @@ export default (editor, { dc, coreMjmlModel, coreMjmlView }) => {
         droppable: false,
         'style-default': {
           'width': '100%',
-          'border-width': '4px',
+          'border-width': '2px',
           'border-style': 'solid',
           'border-color': '#000000',
-          'padding': '10px 25px 10px 25px',
+          'padding': '10px 0px 10px 0px',
         },
         stylable: [
           'padding', 'padding-top', 'padding-left', 'padding-right', 'padding-bottom',

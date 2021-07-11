@@ -13,7 +13,7 @@ export default (editor, { dc, coreMjmlModel, coreMjmlView }) => {
         name: editor.I18n.t('grapesjs-mjml.components.names.spacer'),
         draggable: '[data-gjs-type=mj-column], [data-gjs-type=mj-hero]',
         droppable: false,
-        'style-default': { height: '20px' },
+        'style-default': { height: '10px' },
         stylable: ['height', 'container-background-color'],
         void: false,
       },
